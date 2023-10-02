@@ -67,6 +67,8 @@ def main(cfg : DictConfig) -> None:
 
     try:
         with open(os.path.join(hydra.utils.get_original_cwd(), cfg.data.pickle_fn), 'rb') as f:
+            #f = open("/home/venky/Desktop/TOTO/toto_benchmark/toto_benchmark/sim/dm_human_dataset.pickle",'rb')
+            print(f)
             data = pickle.load(f)
     except:
         print("\n***Pickle does not exist. Make sure the pickle is in the logs_folder directory.")

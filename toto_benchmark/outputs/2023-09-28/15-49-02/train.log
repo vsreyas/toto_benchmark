@@ -1,0 +1,163 @@
+[2023-09-28 15:51:47,484][__main__][INFO] - epoch 0 	 train 0.133631 	 test 0.030574
+[2023-09-28 15:51:47,488][__main__][INFO] - Accumulated loss: 33.6749267578125
+[2023-09-28 15:51:49,129][__main__][INFO] - epoch 1 	 train 0.026549 	 test 0.017111
+[2023-09-28 15:51:49,130][__main__][INFO] - Accumulated loss: 6.690385341644287
+[2023-09-28 15:51:50,679][__main__][INFO] - epoch 2 	 train 0.023842 	 test 0.014542
+[2023-09-28 15:51:50,680][__main__][INFO] - Accumulated loss: 6.0082268714904785
+[2023-09-28 15:51:52,203][__main__][INFO] - epoch 3 	 train 0.096817 	 test 0.021925
+[2023-09-28 15:51:52,203][__main__][INFO] - Accumulated loss: 24.397777557373047
+[2023-09-28 15:51:53,807][__main__][INFO] - epoch 4 	 train 2.324131 	 test 0.020043
+[2023-09-28 15:51:53,807][__main__][INFO] - Accumulated loss: 585.6815185546875
+[2023-09-28 15:51:55,360][__main__][INFO] - epoch 5 	 train 3.982331 	 test 0.018569
+[2023-09-28 15:51:55,360][__main__][INFO] - Accumulated loss: 1003.5472412109375
+[2023-09-28 15:51:56,886][__main__][INFO] - epoch 6 	 train 5.847707 	 test 0.016603
+[2023-09-28 15:51:56,886][__main__][INFO] - Accumulated loss: 1473.6224365234375
+[2023-09-28 15:51:58,422][__main__][INFO] - epoch 7 	 train 2.796327 	 test 0.023322
+[2023-09-28 15:51:58,422][__main__][INFO] - Accumulated loss: 704.6741333007812
+[2023-09-28 15:51:59,961][__main__][INFO] - epoch 8 	 train 3.034402 	 test 0.017611
+[2023-09-28 15:51:59,962][__main__][INFO] - Accumulated loss: 764.668701171875
+[2023-09-28 15:52:01,556][__main__][INFO] - epoch 9 	 train 1.046979 	 test 0.032147
+[2023-09-28 15:52:01,557][__main__][INFO] - Accumulated loss: 263.8387756347656
+[2023-09-28 15:52:03,150][__main__][INFO] - epoch 10 	 train 6.983249 	 test 0.022035
+[2023-09-28 15:52:03,150][__main__][INFO] - Accumulated loss: 1759.77880859375
+[2023-09-28 15:52:04,834][__main__][INFO] - epoch 11 	 train 0.201549 	 test 0.021389
+[2023-09-28 15:52:04,835][__main__][INFO] - Accumulated loss: 50.79045486450195
+[2023-09-28 15:52:06,400][__main__][INFO] - epoch 12 	 train 8.966087 	 test 0.020060
+[2023-09-28 15:52:06,401][__main__][INFO] - Accumulated loss: 2259.451904296875
+[2023-09-28 15:52:07,961][__main__][INFO] - epoch 13 	 train 2.686841 	 test 0.019841
+[2023-09-28 15:52:07,961][__main__][INFO] - Accumulated loss: 677.083984375
+[2023-09-28 15:52:09,552][__main__][INFO] - epoch 14 	 train 3.799074 	 test 0.019501
+[2023-09-28 15:52:09,552][__main__][INFO] - Accumulated loss: 957.366455078125
+[2023-09-28 15:52:11,127][__main__][INFO] - epoch 15 	 train 2.342279 	 test 0.023385
+[2023-09-28 15:52:11,127][__main__][INFO] - Accumulated loss: 590.2544555664062
+[2023-09-28 15:52:12,663][__main__][INFO] - epoch 16 	 train 2.393576 	 test 0.017353
+[2023-09-28 15:52:12,663][__main__][INFO] - Accumulated loss: 603.1815185546875
+[2023-09-28 15:52:14,171][__main__][INFO] - epoch 17 	 train 0.579560 	 test 0.016806
+[2023-09-28 15:52:14,171][__main__][INFO] - Accumulated loss: 146.0491180419922
+[2023-09-28 15:52:15,734][__main__][INFO] - epoch 18 	 train 2.489594 	 test 0.016011
+[2023-09-28 15:52:15,734][__main__][INFO] - Accumulated loss: 627.3783569335938
+[2023-09-28 15:52:17,231][__main__][INFO] - epoch 19 	 train 1.831641 	 test 0.016771
+[2023-09-28 15:52:17,231][__main__][INFO] - Accumulated loss: 461.5736083984375
+[2023-09-28 15:52:18,771][__main__][INFO] - epoch 20 	 train 1.027738 	 test 0.015679
+[2023-09-28 15:52:18,771][__main__][INFO] - Accumulated loss: 258.98992919921875
+[2023-09-28 15:52:20,634][__main__][INFO] - epoch 21 	 train 0.130068 	 test 0.019540
+[2023-09-28 15:52:20,635][__main__][INFO] - Accumulated loss: 32.777061462402344
+[2023-09-28 15:52:22,224][__main__][INFO] - epoch 22 	 train 1.697799 	 test 0.018901
+[2023-09-28 15:52:22,225][__main__][INFO] - Accumulated loss: 427.8456115722656
+[2023-09-28 15:52:23,784][__main__][INFO] - epoch 23 	 train 0.726330 	 test 0.034437
+[2023-09-28 15:52:23,784][__main__][INFO] - Accumulated loss: 183.03524780273438
+[2023-09-28 15:52:25,350][__main__][INFO] - epoch 24 	 train 0.822110 	 test 0.015695
+[2023-09-28 15:52:25,350][__main__][INFO] - Accumulated loss: 207.17164611816406
+[2023-09-28 15:52:26,846][__main__][INFO] - epoch 25 	 train 0.094464 	 test 0.020984
+[2023-09-28 15:52:26,846][__main__][INFO] - Accumulated loss: 23.80502700805664
+[2023-09-28 15:52:28,332][__main__][INFO] - epoch 26 	 train 0.689349 	 test 0.015846
+[2023-09-28 15:52:28,332][__main__][INFO] - Accumulated loss: 173.7158660888672
+[2023-09-28 15:52:29,828][__main__][INFO] - epoch 27 	 train 0.936329 	 test 0.021249
+[2023-09-28 15:52:29,829][__main__][INFO] - Accumulated loss: 235.95481872558594
+[2023-09-28 15:52:31,374][__main__][INFO] - epoch 28 	 train 1.097908 	 test 0.019138
+[2023-09-28 15:52:31,374][__main__][INFO] - Accumulated loss: 276.67279052734375
+[2023-09-28 15:52:32,911][__main__][INFO] - epoch 29 	 train 0.302471 	 test 0.015505
+[2023-09-28 15:52:32,912][__main__][INFO] - Accumulated loss: 76.22277069091797
+[2023-09-28 15:52:34,454][__main__][INFO] - epoch 30 	 train 0.179968 	 test 0.017939
+[2023-09-28 15:52:34,454][__main__][INFO] - Accumulated loss: 45.352020263671875
+[2023-09-28 15:52:36,079][__main__][INFO] - epoch 31 	 train 0.700056 	 test 0.018995
+[2023-09-28 15:52:36,079][__main__][INFO] - Accumulated loss: 176.41412353515625
+[2023-09-28 15:52:37,612][__main__][INFO] - epoch 32 	 train 0.061855 	 test 0.021191
+[2023-09-28 15:52:37,612][__main__][INFO] - Accumulated loss: 15.58743953704834
+[2023-09-28 15:52:39,169][__main__][INFO] - epoch 33 	 train 0.149669 	 test 0.015863
+[2023-09-28 15:52:39,169][__main__][INFO] - Accumulated loss: 37.716583251953125
+[2023-09-28 15:52:40,657][__main__][INFO] - epoch 34 	 train 0.140839 	 test 0.014855
+[2023-09-28 15:52:40,658][__main__][INFO] - Accumulated loss: 35.491355895996094
+[2023-09-28 15:52:42,168][__main__][INFO] - epoch 35 	 train 0.212110 	 test 0.022169
+[2023-09-28 15:52:42,168][__main__][INFO] - Accumulated loss: 53.451698303222656
+[2023-09-28 15:52:43,730][__main__][INFO] - epoch 36 	 train 0.645430 	 test 0.014721
+[2023-09-28 15:52:43,731][__main__][INFO] - Accumulated loss: 162.64822387695312
+[2023-09-28 15:52:45,241][__main__][INFO] - epoch 37 	 train 0.151755 	 test 0.013185
+[2023-09-28 15:52:45,241][__main__][INFO] - Accumulated loss: 38.2421875
+[2023-09-28 15:52:46,815][__main__][INFO] - epoch 38 	 train 0.403392 	 test 0.016009
+[2023-09-28 15:52:46,815][__main__][INFO] - Accumulated loss: 101.65484619140625
+[2023-09-28 15:52:48,314][__main__][INFO] - epoch 39 	 train 0.200186 	 test 0.029253
+[2023-09-28 15:52:48,314][__main__][INFO] - Accumulated loss: 50.44697189331055
+[2023-09-28 15:52:49,873][__main__][INFO] - epoch 40 	 train 0.213227 	 test 0.013700
+[2023-09-28 15:52:49,873][__main__][INFO] - Accumulated loss: 53.733177185058594
+[2023-09-28 15:52:51,515][__main__][INFO] - epoch 41 	 train 0.035790 	 test 0.014257
+[2023-09-28 15:52:51,516][__main__][INFO] - Accumulated loss: 9.019065856933594
+[2023-09-28 15:52:53,058][__main__][INFO] - epoch 42 	 train 0.086417 	 test 0.014068
+[2023-09-28 15:52:53,059][__main__][INFO] - Accumulated loss: 21.777023315429688
+[2023-09-28 15:52:54,610][__main__][INFO] - epoch 43 	 train 0.185689 	 test 0.012762
+[2023-09-28 15:52:54,610][__main__][INFO] - Accumulated loss: 46.79368591308594
+[2023-09-28 15:52:56,169][__main__][INFO] - epoch 44 	 train 0.124533 	 test 0.011872
+[2023-09-28 15:52:56,169][__main__][INFO] - Accumulated loss: 31.382198333740234
+[2023-09-28 15:52:57,680][__main__][INFO] - epoch 45 	 train 0.574695 	 test 0.016468
+[2023-09-28 15:52:57,680][__main__][INFO] - Accumulated loss: 144.82313537597656
+[2023-09-28 15:52:59,289][__main__][INFO] - epoch 46 	 train 0.165744 	 test 0.016819
+[2023-09-28 15:52:59,289][__main__][INFO] - Accumulated loss: 41.76757049560547
+[2023-09-28 15:53:00,890][__main__][INFO] - epoch 47 	 train 0.410746 	 test 0.010345
+[2023-09-28 15:53:00,890][__main__][INFO] - Accumulated loss: 103.50812530517578
+[2023-09-28 15:53:02,437][__main__][INFO] - epoch 48 	 train 0.133579 	 test 0.011956
+[2023-09-28 15:53:02,437][__main__][INFO] - Accumulated loss: 33.66197967529297
+[2023-09-28 15:53:03,979][__main__][INFO] - epoch 49 	 train 0.570620 	 test 0.012456
+[2023-09-28 15:53:03,979][__main__][INFO] - Accumulated loss: 143.79608154296875
+[2023-09-28 15:53:05,581][__main__][INFO] - epoch 50 	 train 1.343345 	 test 0.012598
+[2023-09-28 15:53:05,581][__main__][INFO] - Accumulated loss: 338.5228576660156
+[2023-09-28 15:53:07,272][__main__][INFO] - epoch 51 	 train 0.679432 	 test 0.011843
+[2023-09-28 15:53:07,272][__main__][INFO] - Accumulated loss: 171.2169647216797
+[2023-09-28 15:53:08,868][__main__][INFO] - epoch 52 	 train 1.540500 	 test 0.028065
+[2023-09-28 15:53:08,869][__main__][INFO] - Accumulated loss: 388.2059020996094
+[2023-09-28 15:53:10,448][__main__][INFO] - epoch 53 	 train 0.187546 	 test 0.019842
+[2023-09-28 15:53:10,449][__main__][INFO] - Accumulated loss: 47.26150131225586
+[2023-09-28 15:53:11,991][__main__][INFO] - epoch 54 	 train 2.160883 	 test 0.022002
+[2023-09-28 15:53:11,992][__main__][INFO] - Accumulated loss: 544.54248046875
+[2023-09-28 15:53:13,578][__main__][INFO] - epoch 55 	 train 1.014889 	 test 0.013213
+[2023-09-28 15:53:13,578][__main__][INFO] - Accumulated loss: 255.75205993652344
+[2023-09-28 15:53:15,188][__main__][INFO] - epoch 56 	 train 0.823140 	 test 0.011738
+[2023-09-28 15:53:15,188][__main__][INFO] - Accumulated loss: 207.4310760498047
+[2023-09-28 15:53:16,734][__main__][INFO] - epoch 57 	 train 0.745395 	 test 0.011426
+[2023-09-28 15:53:16,735][__main__][INFO] - Accumulated loss: 187.8397216796875
+[2023-09-28 15:53:18,297][__main__][INFO] - epoch 58 	 train 0.398522 	 test 0.017698
+[2023-09-28 15:53:18,297][__main__][INFO] - Accumulated loss: 100.4276123046875
+[2023-09-28 15:53:19,824][__main__][INFO] - epoch 59 	 train 0.205942 	 test 0.012391
+[2023-09-28 15:53:19,825][__main__][INFO] - Accumulated loss: 51.897361755371094
+[2023-09-28 15:53:21,316][__main__][INFO] - epoch 60 	 train 0.233250 	 test 0.010472
+[2023-09-28 15:53:21,317][__main__][INFO] - Accumulated loss: 58.77893829345703
+[2023-09-28 15:53:22,955][__main__][INFO] - epoch 61 	 train 0.070380 	 test 0.009105
+[2023-09-28 15:53:22,955][__main__][INFO] - Accumulated loss: 17.735864639282227
+[2023-09-28 15:53:24,540][__main__][INFO] - epoch 62 	 train 0.226510 	 test 0.010045
+[2023-09-28 15:53:24,541][__main__][INFO] - Accumulated loss: 57.080448150634766
+[2023-09-28 15:53:26,090][__main__][INFO] - epoch 63 	 train 0.028949 	 test 0.008350
+[2023-09-28 15:53:26,091][__main__][INFO] - Accumulated loss: 7.2950568199157715
+[2023-09-28 15:53:27,616][__main__][INFO] - epoch 64 	 train 1.316071 	 test 0.011550
+[2023-09-28 15:53:27,616][__main__][INFO] - Accumulated loss: 331.6497497558594
+[2023-09-28 15:53:29,145][__main__][INFO] - epoch 65 	 train 0.110132 	 test 0.008945
+[2023-09-28 15:53:29,146][__main__][INFO] - Accumulated loss: 27.753376007080078
+[2023-09-28 15:53:30,669][__main__][INFO] - epoch 66 	 train 0.675211 	 test 0.009257
+[2023-09-28 15:53:30,669][__main__][INFO] - Accumulated loss: 170.15309143066406
+[2023-09-28 15:53:32,249][__main__][INFO] - epoch 67 	 train 0.055226 	 test 0.008583
+[2023-09-28 15:53:32,249][__main__][INFO] - Accumulated loss: 13.916911125183105
+[2023-09-28 15:53:33,849][__main__][INFO] - epoch 68 	 train 0.483330 	 test 0.012454
+[2023-09-28 15:53:33,850][__main__][INFO] - Accumulated loss: 121.79916381835938
+[2023-09-28 15:53:35,374][__main__][INFO] - epoch 69 	 train 0.150269 	 test 0.010056
+[2023-09-28 15:53:35,375][__main__][INFO] - Accumulated loss: 37.86771011352539
+[2023-09-28 15:53:36,884][__main__][INFO] - epoch 70 	 train 1.986738 	 test 0.010723
+[2023-09-28 15:53:36,884][__main__][INFO] - Accumulated loss: 500.6579284667969
+[2023-09-28 15:53:38,537][__main__][INFO] - epoch 71 	 train 0.213338 	 test 0.011014
+[2023-09-28 15:53:38,537][__main__][INFO] - Accumulated loss: 53.7612190246582
+[2023-09-28 15:53:40,081][__main__][INFO] - epoch 72 	 train 1.325298 	 test 0.010498
+[2023-09-28 15:53:40,082][__main__][INFO] - Accumulated loss: 333.975341796875
+[2023-09-28 15:53:41,608][__main__][INFO] - epoch 73 	 train 0.112664 	 test 0.008640
+[2023-09-28 15:53:41,608][__main__][INFO] - Accumulated loss: 28.391298294067383
+[2023-09-28 15:53:43,088][__main__][INFO] - epoch 74 	 train 0.825794 	 test 0.010638
+[2023-09-28 15:53:43,088][__main__][INFO] - Accumulated loss: 208.10009765625
+[2023-09-28 15:53:44,608][__main__][INFO] - epoch 75 	 train 0.054838 	 test 0.008934
+[2023-09-28 15:53:44,608][__main__][INFO] - Accumulated loss: 13.819128036499023
+[2023-09-28 15:53:46,134][__main__][INFO] - epoch 76 	 train 0.544110 	 test 0.013249
+[2023-09-28 15:53:46,134][__main__][INFO] - Accumulated loss: 137.1157989501953
+[2023-09-28 15:53:47,631][__main__][INFO] - epoch 77 	 train 0.284385 	 test 0.011628
+[2023-09-28 15:53:47,632][__main__][INFO] - Accumulated loss: 71.6649398803711
+[2023-09-28 15:53:49,149][__main__][INFO] - epoch 78 	 train 0.407349 	 test 0.010676
+[2023-09-28 15:53:49,149][__main__][INFO] - Accumulated loss: 102.65185546875
+[2023-09-28 15:53:50,632][__main__][INFO] - epoch 79 	 train 0.047090 	 test 0.012350
+[2023-09-28 15:53:50,632][__main__][INFO] - Accumulated loss: 11.866617202758789
+[2023-09-28 15:54:11,507][matplotlib.animation][WARNING] - MovieWriter imagemagick unavailable; using Pillow instead.
+[2023-09-28 15:54:11,509][matplotlib.animation][INFO] - Animation.save using <class 'matplotlib.animation.PillowWriter'>
+[2023-09-28 16:23:15,892][__main__][INFO] - Saved agent to /home/venky/Desktop/TOTO/toto_benchmark/toto_benchmark/outputs/2023-09-28/15-49-02
